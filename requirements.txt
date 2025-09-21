@@ -1,0 +1,10 @@
+ # GUI
+# Tkinter is included with Python (no need to install separately)
+
+# Testing
+pytest>=7.0
+pytest-mock>=3.10
+
+# Optional helpers (for future enhancements)
+# pillow - for image handling (icons, splash screen)
+Pillow>=10.0
